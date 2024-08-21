@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pahlawan Rahmani
 - 👀 I’m interested in Deep Learning
-- 🌱 I’m currently learning Mobile Machine Learning
+- 🌱 I’m currently learning AI in Cyber Security
 - 💞️ I’m looking to collaborate on TensorFlow
 - 📫 How to reach me ...whatsapp(0093792989257)
 
