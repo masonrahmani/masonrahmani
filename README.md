@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a **Flutter App Developer**, **Application Sec
 - 🛠️ Application Security Analyst at **Roshan Telecom**
 - 🤖 Exploring **AI in Cybersecurity** & **Deep Learning**
 - 🎓 Preparing for **CEH Certification** & **Mastering Kaggle Competitions**
-- 💻 Building **P. Stream** - A Music Streaming App for Pamir (Shughan, Khorog, Roshan) People
+- 💻 Building **Pamir Music Streaming app** - A Music Streaming App for Pamir (Shughan, Khorog, Roshan) People
 - ✨ Passionate about **Mathematics, AI, and Cybersecurity**
 
 ---
