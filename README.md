@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a **Flutter App Developer**, **Application Sec
 - 🛠️ Application Security Analyst at **Roshan Telecom**
 - 🤖 Exploring **AI in Cybersecurity** & **Deep Learning**
 - 🎓 Preparing for **CEH Certification** & **Mastering Kaggle Competitions**
-- 💻 Building **Pamir Music Streaming app** - A Music Streaming App for Pamir (Shughan, Khorog, Roshan) People
+- 💻 Manage **Pamir Music Streaming app** - A Music Streaming App for Pamir (Shughan, Khorog, Roshan) People
 - ✨ Passionate about **Mathematics, AI, and Cybersecurity**
 
 ---
@@ -30,6 +30,8 @@ Welcome to my GitHub profile! I'm a **Flutter App Developer**, **Application Sec
 ---
 
 ### 🌟 Featured Projects
+-    ** Scalan Scanner** - Automatic Vulnerablity scanner of web and network.
+-    ** Dost Online Store ** - Online shopping mobile app in afghanistan 
 - 📈 **Stock Price Prediction** - AI-driven stock forecasting.
 - ⛈ **Weather Forecasting** - ML model for weather prediction.
 - 🎿 **Avalanche Prediction** - Predicting avalanche risks using AI.
@@ -37,7 +39,7 @@ Welcome to my GitHub profile! I'm a **Flutter App Developer**, **Application Sec
 - ⚕ **Titanic Survival Prediction** - Kaggle competition project.
 - 💀 **Digit Recognizer** - Deep learning-based handwritten digit recognition.
 - 🛒 **Dost Online Store** - Flutter & Django-based eCommerce platform.
-- 🎧 **P. Stream** - Music Streaming App for Pamir (Shughan, Khorog, Roshan) People.
+- 🎧 **Pamir Stream** - Music Streaming App for Pamir (Shughan, Khorog, Roshan) People.
 - 🏢 **MIS AKAH** - Management Information System for Aga Khan Agency for Habitat.
 
 Check out my projects [here](https://github.com/PahlawanRahmani)!
